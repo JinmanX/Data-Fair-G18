@@ -18,5 +18,5 @@
 * credibility of data(fake news)
 
 ### Discussion
-1 - by username (organisations....).
-2 - by number of followers.
+1 by username (organisations....).
+2 by number of followers.
